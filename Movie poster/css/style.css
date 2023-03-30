@@ -1,0 +1,94 @@
+*{
+  margin: 0px;
+
+}
+.Backround img{
+  position: relative;
+  max-width: 100%;
+  height: auto;
+  padding: 40%;
+}
+
+h1{
+  position: relative;
+  top: 100px;
+  font-family: 'Shojumaru', cursive;
+}
+
+.JurassicParkPic img{
+width: 500px;
+height: 1200px;
+}
+
+/* Container holding the image and the text */
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  top: 40px;
+  left: 750px;
+  font-family: 'Six Caps', sans-serif;
+  color: white;
+  padding-left: 100px;
+  padding-right: 20px;
+  font-size: 40px;
+}
+
+h4{
+  position: relative;
+  top: 675px;
+  text-align: center;
+ left: 15px;
+  font-family: 'Arial', sans-serif;
+  color: white;
+}
+
+.nik1 {
+  position: absolute;
+  top: 775px;
+  left: 545px;
+  font-family: 'Six Caps', sans-serif;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+.nik2{
+  position: relative;
+  top: 890px;
+  text-align: center;
+ left: 10px;
+ font-family: 'Changa One', cursive;
+  color: red;
+  font-size: 35px;
+}
+
+h2{
+  position: relative;
+  top: 900px;
+  text-align: center;
+ left: 1px;
+ font-family: 'Changa One', cursive;
+  color: white;
+  font-size: 15px;
+}
+/*section > .Jurassic{
+text-align: center;
+font-size: 3.25em;
+position: relative;
+top: 100px;
+left: 100px;
+color: white;
+}
+*/
+
+
+
+
+
+
+
+
